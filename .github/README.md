@@ -22,7 +22,6 @@
 - **[Table of Contents](#table-of-contents)**
     - **[Screenshots](#screenshots)**
     - **[Environment](#environment)**
-    - **[Themes](#theme-change-script)**
     - **[Dependencies](#dependencies)**
 
 <!-- ### ***Screenshots*** <details>
