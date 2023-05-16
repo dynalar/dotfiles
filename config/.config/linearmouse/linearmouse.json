@@ -1,0 +1,44 @@
+{
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.9.0",
+  "schemes" : [
+    {
+      "pointer" : {
+        "disableAcceleration" : true
+      },
+      "if" : {
+        "device" : {
+          "productName" : "X2 Wireless",
+          "productID" : "0xfa7c",
+          "category" : "mouse",
+          "vendorID" : "0x25a7"
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "disableAcceleration" : true
+      },
+      "if" : {
+        "device" : {
+          "productName" : "X2 Wireless",
+          "productID" : "0xfa7b",
+          "category" : "mouse",
+          "vendorID" : "0x25a7"
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "disableAcceleration" : true
+      },
+      "if" : {
+        "device" : {
+          "productName" : "USB Receiver",
+          "productID" : "0xc548",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      }
+    }
+  ]
+}
