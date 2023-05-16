@@ -41,71 +41,34 @@
 | --- | --- |
 | ![Zathura](./assets/rose-pine/zathura.png) | ![FileManager](./assets/rose-pine/explorer.png) |
 
-</details>
-
-<details>
-<summary><b>Gruvbox Dark</b></summary>
-
-| ![ThemeSelector](./assets/gruvbox-dark/theme-selector.png) | ![Nvim](./assets/gruvbox-dark/nvim.png) |
-| --- | --- |
-| ![Zathura](./assets/gruvbox-dark/zathura.png) | ![FileManager](./assets/gruvbox-dark/explorer.png) |
-
-</details>
-
-<details>
-<summary><b>Dracula</b></summary>
-
-| ![ThemeSelector](./assets/dracula/theme-selector.png) | ![Nvim](./assets/dracula/nvim.png) |
-| --- | --- |
-| ![Zathura](./assets/dracula/zathura.png) | ![FileManager](./assets/dracula/explorer.png) |
-
-</details>
-
-<details>
-<summary><b>Kanagawa</b></summary>
-
-| ![ThemeSelector](./assets/kanagawa/theme-selector.png) | ![Nvim](./assets/kanagawa/nvim.png) |
-| --- | --- |
-| ![Zathura](./assets/kanagawa/zathura.png) | ![FileManager](./assets/kanagawa/explorer.png) |
-
 </details> -->
 
 ### ***Environment***
 
 - **Distro**: Mac OS X
 - **Compositor**: Quartz
-- **Notifications**: 
-- **Wallpapers**: 
 - **Terminal**: iTerm 2
-- **File Manager**: 
-- **Editor**: NeoVim / VSCode
+- **File Manager**: Finder
+- **Editor**: NeoVim / VSCode / Jetbrains Suite
 - **Browser**: Firefox / Brave
 - **Shell**: Zsh
-- **Media Player**: 
 - **App Laucher**: Finder
-- **Font**: 
-
-
-<details><summary><b>Video</b></summary>
-
-https://user-images.githubusercontent.com/84767665/233387508-3736f857-6653-4071-8576-a6ee342c9a37.mov
-
-</details>
+- **Font**: [JetBrainsMonoNFM](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/JetBrainsMono.zip)
 
 ### ***Dependencies***
 
+- make
 - stow
 - g++
 - nvim 0.7.0+
 - oh-my-zsh
 
 ```
-apt install stow
-apt install g++
+brew install stow
+brew install g++
 ```
 
 Latest version of nvim can be downloaded from its git repo page.
-Synaptic package manager tends to have an outdated version that won't work with my plugins.
 
 Make sure to install oh-my-zsh from official site.
 
