@@ -47,6 +47,7 @@ alias k="/usr/local/bin/kubectl"
 alias dev='cd ~/projects'
 alias dps='docker ps'
 alias dots='cd ~/dotfiles'
+alias s='kitty +kitten ssh'
 alias gclean='git reset --hard && git clean -fd'
 
 dgo() {
